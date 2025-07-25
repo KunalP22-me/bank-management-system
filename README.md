@@ -1,3 +1,6 @@
+🚀 CANTILEVER: Java Programming Internship
+Welcome to CANTILEVER — a portfolio of powerful full-stack Java projects including GUI applications, real-time systems, and database-driven interfaces. Built to demonstrate strong practical skills in both frontend and backend development.
+
 # 1. 🏦 KP Cantilever Bank Management System
 
 A Java Swing-based banking application providing a full-featured graphical user interface for user registration, login, managing multiple accounts, performing deposits, withdrawals, transfers, and viewing transaction history with persistent data storage.
