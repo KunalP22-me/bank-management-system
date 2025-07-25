@@ -44,20 +44,7 @@ A Java Swing-based banking application providing a full-featured graphical user 
 
 ### 🔧 Setup Instructions
 
-1. **Clone this repo**
-
-   ```bash
-   git clone https://github.com/KunalP22-me/bank-management-system.git
-
-   ```
-
-2. **Change directory**
-
-   ```bash
-   cd bank-management-system
-   ```
-
-3. **compile and run**
+**compile and run**
 
    ````bash
    
