@@ -1,5 +1,4 @@
-🚀 CANTILEVER: Java Programming Internship
-Welcome to CANTILEVER — a portfolio of powerful full-stack Java projects including GUI applications, real-time systems, and database-driven interfaces. Built to demonstrate strong practical skills in both frontend and backend development.
+# 🚀 CANTILEVER: Java Programming Internship
 
 # 1. 🏦 KP Cantilever Bank Management System
 
