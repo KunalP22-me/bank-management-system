@@ -10,7 +10,7 @@ A Java Swing-based banking application providing a full-featured graphical user 
 - 📊 Live Balance Display (updates instantly)
 - 📜 Transaction History Log
 - 🎨 Clean and Colorful UI using Swing
-- 💾 Data Persistence
+- 💾 Data Persistence. 
 
 ---
 
